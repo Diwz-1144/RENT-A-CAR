@@ -1,4 +1,4 @@
-🚗 Car Rental Management System
+🚗 RENT-A-CAR : Car Rental Management System
 
 A full-stack web application designed to automate and streamline end-to-end car rental operations. The system enables customers to browse vehicles, make real-time bookings, calculate fares, and receive automated invoices, while administrators manage fleet, drivers, and booking workflows through a secure dashboard.
 
