@@ -1,23 +1,49 @@
-# RENT-A-CAR
-Online Car Rental Management System 
+🚗 Car Rental Management System
 
-This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
+A full-stack web application designed to automate and streamline end-to-end car rental operations. The system enables customers to browse vehicles, make real-time bookings, calculate fares, and receive automated invoices, while administrators manage fleet, drivers, and booking workflows through a secure dashboard.
 
-### Screenshots:
-> - Landing Page
-<img src="/Screenshots/index.jpg" width="800" height="450" alt="landing_page"/>
+✨ Features
 
-> - Available Cars
-<img src="/Screenshots/available_cars.png" width="800" height="450" alt="available_cars"/>
+-> User & admin authentication with role-based access
 
-> - Add Cars
-<img src="/Screenshots/add_car.png" width="800" height="700" alt="add_car"/>
+-> Real-time vehicle availability and booking management
 
-> - Booking Confirmation
-<img src="/Screenshots/booking_confirmation.png" width="800" height="800" alt="booking_confirm"/>
+-> Dynamic fare calculation (per km/per day, AC/Non-AC)
 
-> - Return Car
-<img src="/Screenshots/return_car.png" width="800" height="450" alt="return_car"/>
+-> Driver assignment and fleet management
 
-> - Booking Summary
-<img src="/Screenshots/bookings.png" width="800" height="450" alt="booking_summary"/>
+-> Automated invoice generation
+
+-> Responsive UI for seamless user experience
+
+-> Booking history tracking
+
+🛠 Tech Stack
+
+Frontend: HTML5, CSS3, Bootstrap, JavaScript, AngularJS
+
+Backend: PHP
+
+Database: MySQL
+
+Server: Apache (XAMPP / WAMP)
+
+📂 Project Overview
+
+This system replaces manual rental workflows with a centralized, automated platform—improving accuracy, reducing delays, and enhancing usability for both customers and administrators.
+
+🚀 How to Run
+
+Clone the repository
+
+Import the provided MySQL database
+
+Configure database credentials in connection.php
+
+Run the project on XAMPP/WAMP using Apache & MySQL
+
+Access via http://localhost/<project-folder>/
+
+📄 License
+
+This project is for educational and demonstrational purposes.
